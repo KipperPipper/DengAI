@@ -9,7 +9,9 @@ goal is to predict the total_cases label for for San Juan and  for Iquitos based
  Methods used - 
  
  Randomforestregressor
+ 
  DNN
+ 
  fbprophet
  
  
